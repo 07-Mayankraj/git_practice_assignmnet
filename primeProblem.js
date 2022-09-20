@@ -8,6 +8,9 @@ function primeNumber(x) {
             }
         }
     }
+
+    console.log(flag ? "Yes" : "No")
+    console.log(flag ? "Yes" : "No")
     console.log(flag ? "Yes" : "No")
 }
 primeNumber(4);
